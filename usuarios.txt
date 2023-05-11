@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "644c65db6ee3df81aad16b54",
+    "email": "prueba@m",
+    "password": "prueba",
+    "first_name": "prueba",
+    "last_name": "prueba",
+    "age": 1
+  },
+  {
+    "_id": "644c69f95fbb3e9a27fd247c",
+    "email": "prueba1@m",
+    "password": "prueba1",
+    "first_name": "prueba1",
+    "last_name": "prueba1",
+    "age": 2
+  },
+  {
+    "_id": "644c728be416cd6277ae2784",
+    "email": "prueba2@m",
+    "password": "prueba2",
+    "first_name": "prueba2",
+    "last_name": "prueba2",
+    "age": 3
+  },
+  {
+    "_id": "644c73731fb468a686121f1a",
+    "email": "prueba3@m",
+    "password": "prueba3",
+    "first_name": "prueba3",
+    "last_name": "prueba3",
+    "age": 4
+  },
+  {
+    "_id": "644c73a671176efa3ce3f3f0",
+    "email": "prueba4@m",
+    "password": "prueba4",
+    "first_name": "prueba4",
+    "last_name": "prueba4",
+    "age": 5
+  }
+]
